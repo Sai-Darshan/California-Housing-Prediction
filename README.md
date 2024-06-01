@@ -12,3 +12,6 @@ Models Used:
 9. Support Vector Regression
 10. XGBoost Regression
 
+Hyperparameter tuning methods used:
+1. K-fold cross-validation
+2. GridSearchCV
