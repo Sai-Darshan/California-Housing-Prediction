@@ -1,6 +1,6 @@
 # California-Housing-Prediction
 
-Models Used:
+Models Used for prediction and comparison:
 1. Linear Regression
 2. Polynomial Regression
 3. Ridge Regression
